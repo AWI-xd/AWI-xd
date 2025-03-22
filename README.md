@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Artyom from Russia<br><br>- 🔭 I’m working as a backend developer<br>- 📚 I'm currently learning how to work with Docker and Flask<br>- ⚡ In my free time, I'm working on an indie project on Unity.</p>
+<p align="left">I'm Artyom from Russia<br><br>- 🔭 I’m working as a backend developer<br>- 📚 I'm currently learning how to work with Docker and Django<br>- ⚡ In my free time, I'm working on an indie project on Unity.</p>
 
 ###
 
